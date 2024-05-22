@@ -1,2 +1,3 @@
 username: ehddls98	
 email: icbku6789@naver.com
+name : dongin
